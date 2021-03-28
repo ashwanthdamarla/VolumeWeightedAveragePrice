@@ -1,1 +1,1 @@
-# VolumeWeightedAveragePrice
+# Volume Weighted Average Price
